@@ -9,7 +9,7 @@ a = "1"
 b = "2"
 c = "3"
 header = { 
-    'authorization': "NTk3MTY4OTUxNTYyMDc2MTY2.Gq4CkY.zKmIOsFlSW_cKMgI2_HGApHw5PtZXZSNZD4TjE"
+    'authorization': "your auth code"
 } 
 
 url = links["get"]
