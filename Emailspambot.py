@@ -2,9 +2,9 @@
 from email.message import EmailMessage
 import ssl
 import smtplib
-email_sender = 'logomedigitals@gmail.com'
-email_password = 'vrpfsxsjosripxds'
-email_receiver = ['sean.santosh958@gmail.com']
+email_sender = 'your email'
+email_password = 'your password'
+email_receiver = ['the email you want to send it to']
 
 subject = 'Logo update waiting for you!'
 
