@@ -11,7 +11,7 @@ date = []
 messenger = "https://discord.com/api/v9/channels/1132654960903991358/messages"
 
 header = { 
-    'authorization': "NTk3MTY4OTUxNTYyMDc2MTY2.Gq4CkY.zKmIOsFlSW_cKMgI2_HGApHw5PtZXZSNZD4TjE"
+    'authorization': "your auth code"
 }
 
 message_sending = requests.post("https://discord.com/api/v9/channels/1132654960903991358/messages")
